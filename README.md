@@ -1,0 +1,2 @@
+# build_cross_validation_splits
+Jupyter Notebook to build a K-fold cross validation split of the work directory containing darknet format images and labels. The K is currently set for a 5-fold cross validation. The images are placed into subfolders with the names train_1, train_2 etc.
